@@ -1,0 +1,2 @@
+# CordovaEchoPlugin
+Cordova Echo Plugin
